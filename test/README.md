@@ -1,1 +1,2 @@
-# This folder contains Test Cases
+# Test Cases Folder
+This folder contains Test Cases
