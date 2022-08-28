@@ -3,8 +3,8 @@
 NC State University Fall-2022 Software Engineering Repository for Team 42
 
 ## Team Members:
--Kalyan Karnati
--Mukund Varma Pericharla
--Pranavi Sharma Sanganabhatla
--Saketh Vangala
--Srihitha Reddy Kaalam
+- Kalyan Karnati
+- Mukund Varma Pericharla
+- Pranavi Sharma Sanganabhatla
+- Saketh Vangala
+- Srihitha Reddy Kaalam
