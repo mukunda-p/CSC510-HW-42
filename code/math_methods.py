@@ -5,7 +5,7 @@ def square(x):
     return x*x
 
 def exp(base,power):
-    return base**power
+    return (base)**power
 
 def factorial(x):
     fact=1
