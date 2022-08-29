@@ -11,7 +11,7 @@ def test_square():
     assert square(-2)==(-2)**2
     assert square(0)==0**2
     assert square(2)==2**2
-    assert sqaure(10)==10**2
+    assert square(10)==10**2
 
 def test_factorial():
     assert factorial(0)==math.factorial(0)
