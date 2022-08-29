@@ -1,6 +1,5 @@
 import sys
-import math
-from code.math_methods import cube,square,exp,factorial
+from code.mathmethods import *
 
 def test_sqaure():
     for i in range(1,100):
