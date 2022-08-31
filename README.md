@@ -1,8 +1,8 @@
 # TEAM-42 Repository To Have Homeworks of CSC 510 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![Build Status - GitHub](https://github.com/mukunda-p/CSC510-HW-42/actions/workflows/python-app.yml/badge.svg)
-![Open Issues](https://img.shields.io/github/issues/mukunda-p/CSC510-HW-42)
-![Stars](https://img.shields.io/github/stars/mukunda-p/CSC510-HW-42)
+[![Build Status - GitHub](https://github.com/mukunda-p/CSC510-HW-42/actions/workflows/python-app.yml/badge.svg)](https://github.com/mukunda-p/CSC510-HW-42/actions/workflows/python-app.yml)
+[![Open Issues](https://img.shields.io/github/issues/mukunda-p/CSC510-HW-42)](https://github.com/mukunda-p/CSC510-HW-42/issues)
+[![Stars](https://img.shields.io/github/forks/mukunda-p/CSC510-HW-42)](https://github.com/mukunda-p/CSC510-HW-42/network/members)
 
 ## Getting Started
 Follow the steps for setting up the project:
