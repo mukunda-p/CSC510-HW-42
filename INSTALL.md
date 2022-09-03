@@ -8,4 +8,8 @@ This document gives the instruction on how to install python
 4. Click on install 
 5. Add Python 3.10 to path.
 6. Wohoo!Python is installed on your computer. 
-Now you can open command prompt and type in Python version command to see what python version is installed. 
+7. Go to Project directory
+8. Open command prompt and execute the following command
+   ```
+   pip install requirements.txt
+   ```
