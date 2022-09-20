@@ -3,6 +3,7 @@
 [![Build Status - GitHub](https://github.com/mukunda-p/CSC510-HW-42/actions/workflows/python-app.yml/badge.svg)](https://github.com/mukunda-p/CSC510-HW-42/actions/workflows/python-app.yml)
 [![Open Issues](https://img.shields.io/github/issues/mukunda-p/CSC510-HW-42)](https://github.com/mukunda-p/CSC510-HW-42/issues)
 [![Stars](https://img.shields.io/github/forks/mukunda-p/CSC510-HW-42)](https://github.com/mukunda-p/CSC510-HW-42/network/members)
+[![DOI](https://zenodo.org/badge/527815538.svg)](https://zenodo.org/badge/latestdoi/527815538)
 
 ## Getting Started
 Follow the steps for setting up the project:
